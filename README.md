@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=230&section=header&text=Sanghyuk%20Son&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=55&descAlign=50&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=230&section=header&text=Sanghyuk%20Son&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descAlign=50&descSize=20" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=NestJS+%2F+TypeScript+Developer;6%2B+Years+of+Backend+Experience;Building+things+that+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=Fullstack+Developer;NestJS+%2F+TypeScript+%2F+Next.js;6%2B+Years+of+Experience;Building+things+that+work)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### About Me
 
-- Backend Developer, 6+ years experience
+- Fullstack Developer, 6+ years experience
 - Currently working with **NestJS**, **TypeScript**, **Next.js**
 - Writing at **[sonsh.dev](https://sonsh.dev)**
 
