@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#232526;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#414345;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="230" fill="url(#grad)"/>
+  <text x="600" y="100" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="50" fill="#ffffff" text-anchor="middle" font-weight="600">Sanghyuk Son</text>
+  <text x="600" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif" font-size="20" fill="#cccccc" text-anchor="middle">Fullstack Developer</text>
+  <path d="M0,190 C200,230 400,170 600,200 C800,230 1000,170 1200,190 L1200,230 L0,230 Z" fill="#0d1117" opacity="0.3"/>
+  <path d="M0,210 C300,230 500,195 700,215 C900,235 1100,200 1200,220 L1200,230 L0,230 Z" fill="#0d1117" opacity="0.5"/>
+</svg>

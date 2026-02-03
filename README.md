@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=230&section=header&text=Sanghyuk%20Son&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=55&descAlign=50&descSize=20" width="100%" />
+<picture>
+  <img src="https://raw.githubusercontent.com/sonbyungjun/sonbyungjun/main/assets/header.svg" width="100%" />
+</picture>
 
 <div align="center">
 
@@ -102,4 +104,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=120&section=footer" width="100%" />
+<picture>
+  <img src="https://raw.githubusercontent.com/sonbyungjun/sonbyungjun/main/assets/footer.svg" width="100%" />
+</picture>
