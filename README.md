@@ -15,7 +15,7 @@
 - Writing at **[sonsh.dev](https://sonsh.dev)**
 
 <a href="https://sonsh.dev"><img src="https://img.shields.io/badge/Tech%20Blog-sonsh.dev-2d2d2d?style=for-the-badge&logo=astro&logoColor=white" /></a>
-<a href="mailto:nabom86@gmail.com"><img src="https://img.shields.io/badge/Email-nabom86-2d2d2d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:saint2030@naver.com"><img src="https://img.shields.io/badge/Email-saint2030-2d2d2d?style=for-the-badge&logo=naver&logoColor=white" /></a>
 
 ---
 
