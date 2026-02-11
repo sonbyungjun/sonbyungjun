@@ -54,11 +54,11 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenClaw가 내 삶을 바꿨다](https://sonsh.dev/posts/life-changed-by-ai-agent/)
 - [AI 비서에게 개발을 시켜봤다 - OpenClaw 실사용기](https://sonsh.dev/posts/openclaw-ai-assistant/)
 - [바이브 코딩으로 4일 만에 풀스택 앱 만들기 - Pet Story 개발기](https://sonsh.dev/posts/vibe-coding-pet-story/)
 - [AI 스크래퍼 서비스 개발기 - 웹 데이터 수집 자동화](https://sonsh.dev/posts/ai-scraper-service/)
-- [Legend State로 상태관리 마이그레이션 - React Hydration 지옥 탈출기](https://sonsh.dev/posts/legend-state-migration/)
-- [멀티 클라우드 프록시 구축기 - 홍콩 리전 우회와 SSE 호환성 삽질](https://sonsh.dev/posts/multi-cloud-proxy-worker/)<!-- BLOG-POST-LIST:END -->
+- [Legend State로 상태관리 마이그레이션 - React Hydration 지옥 탈출기](https://sonsh.dev/posts/legend-state-migration/)<!-- BLOG-POST-LIST:END -->
 
 > More at **[sonsh.dev](https://sonsh.dev)**
 
